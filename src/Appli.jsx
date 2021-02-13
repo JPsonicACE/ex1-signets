@@ -1,9 +1,19 @@
-import './Appli.scss';
+import './Appli.css';
+import Entete from './Entete';
+import ListeSignet from './ListeSignet';
+import BoutonAjou from './BoutonAjou';
 
-export default function Appli() {
+function Appli() {
   return (
+    // jsx comme du html ish
     <div className="Appli">
-        Gabarit de base d'une Application React
+      <Entete/>
+    <section className="contenuePrincipal">
+    <ListeSignet/>
+    </section>
+    <BoutonAjou/>
     </div>
   );
 }
+
+export default Appli;

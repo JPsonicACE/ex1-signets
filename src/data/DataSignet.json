@@ -1,0 +1,38 @@
+[
+    {
+        "nom": "linge1",
+        "modif":196.57,
+        "couleur":"rgb(205, 92, 92)"
+
+    },
+    {
+        "nom": "linge12",
+        "prix":195.57,
+        "id":"prd0002"
+
+    },
+    {
+        "nom": "linge14",
+        "prix":194.57,
+        "id":"prd0003"
+
+    },
+    {
+        "nom": "linge15",
+        "prix":193.57,
+        "id":"prd0004"
+
+    },
+    {
+        "nom": "linge16",
+        "prix":192.57,
+        "id":"prd0005"
+
+    },
+    {
+        "nom": "linge126",
+        "prix":192.57,
+        "id":"prd006"
+
+    }
+]
