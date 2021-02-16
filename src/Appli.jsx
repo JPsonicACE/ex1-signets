@@ -1,7 +1,8 @@
-import './Appli.css';
+import './Appli.scss';
 import Entete from './Entete';
 import ListeSignet from './ListeSignet';
-import BoutonAjou from './BoutonAjou';
+import BoutonAjout from './BoutonAjout';
+
 
 function Appli() {
   return (
@@ -11,7 +12,7 @@ function Appli() {
     <section className="contenuePrincipal">
     <ListeSignet/>
     </section>
-    <BoutonAjou/>
+    <BoutonAjout/>
     </div>
   );
 }

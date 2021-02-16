@@ -1,38 +1,44 @@
 [
-    {
-        "nom": "linge1",
+    {   
+        "id": "prd0001",
+        "titre": "prd0001",
         "modif":196.57,
         "couleur":"rgb(205, 92, 92)"
 
     },
     {
-        "nom": "linge12",
-        "prix":195.57,
-        "id":"prd0002"
+        "id": "prd0002",
+        "titre": "prd0001",
+        "modif":196.57,
+        "couleur":"rgb(205, 92, 92)"
 
     },
     {
-        "nom": "linge14",
-        "prix":194.57,
-        "id":"prd0003"
+        "id": "prd0003",
+        "titre": "prd0001",
+        "modif":196.57,
+        "couleur":"rgb(205, 92, 92)"
 
     },
     {
-        "nom": "linge15",
-        "prix":193.57,
-        "id":"prd0004"
+        "id": "prd0004",
+        "titre": "prd0001",
+        "modif":196.57,
+        "couleur":"rgb(205, 92, 92)"
 
     },
     {
-        "nom": "linge16",
-        "prix":192.57,
-        "id":"prd0005"
+        "id": "prd0005",
+        "titre": "prd0001",
+        "modif":196.57,
+        "couleur":"rgb(205, 92, 92)"
 
     },
     {
-        "nom": "linge126",
-        "prix":192.57,
-        "id":"prd006"
+        "id": "prd0006",
+        "titre": "prd0002",
+        "modif":196.57,
+        "couleur":"rgb(205, 92, 92)"
 
     }
 ]
